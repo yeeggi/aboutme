@@ -9,7 +9,7 @@ Discord : YeGGi#5601
 Github : Yeeggi
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeggi&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeggi&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeggi&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## Tools
 
